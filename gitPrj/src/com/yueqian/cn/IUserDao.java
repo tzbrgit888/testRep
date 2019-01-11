@@ -6,4 +6,7 @@ public interface IUserDao {
 	
 	public void delete() ;
 	public void getAll() ;
+	
+	public void select() ;
+	
 }

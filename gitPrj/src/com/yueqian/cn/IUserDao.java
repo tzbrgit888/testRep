@@ -9,4 +9,6 @@ public interface IUserDao {
 	
 	public void select() ;
 	
+	public void page() ;
+	
 }

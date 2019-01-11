@@ -10,7 +10,7 @@ public interface IUserDao {
 	public void select() ;
 	
 	public void page() ;
-	
+	public void p() ;
 	public void getCount() ;
 	
 	

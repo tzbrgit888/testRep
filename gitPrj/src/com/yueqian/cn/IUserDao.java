@@ -11,4 +11,9 @@ public interface IUserDao {
 	
 	public void page() ;
 	
+	public void getCount() ;
+	
+	
+	
+	
 }
